@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hzClinic</string>
+    <string name="HelloWorld">0</string>
+    <string name="first_button">Кнопарь</string>
+</resources>
